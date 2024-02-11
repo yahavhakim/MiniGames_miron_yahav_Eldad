@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Horizontal_Player2
+  - Horizontal_Player1
+  - Ground
+  - Kick
+  - Ball
   layers:
   - Default
   - TransparentFX
